@@ -9,5 +9,5 @@ I will implement tf-idf to gain insight into each words’ overall importance to
 I will also apply a NaiveBayesClassifier using NLTK to classify each word as positive or negative. Each conference call would end up being classified into positive or negative and to a certain degree, which I can then use to adjust the revenue figure proposed by the company.
 
 
-Main source of information is from https://seekingalpha.com/earnings/earnings-call-transcripts
+Source: https://seekingalpha.com/earnings/earnings-call-transcripts
 
