@@ -47,29 +47,31 @@ Accuracy scores
 * Ensemble of GBC and LR: 0.646
 
 # Live Performance as of 7/19/2017
-Ticker	Predict	Actual		
-* BAC		Miss		Beat
-* BLK		Miss		Miss
-* C		Miss		Beat
-* DAL		Miss		Miss
-* FAST		Miss		Beat
-* GS		Beat		Beat
-* GWW	Miss		Miss
-* HOG		Miss		Miss
-* JNJ		Beat		Miss
-* JPM		Beat		Beat
-* LMT		Beat		Beat
-* MS		Beat		Beat
-* MTB		Beat		Beat
-* NFLX		Miss		Beat
-* NTRS	Miss		Beat
-* PEP		Beat		Beat
-* PGR		Miss		Miss
-* PNC		Beat		Beat
-* TXT		Miss		Miss
-* UNH		Beat		Miss
-* USB		Beat		Beat
-* WFC		Miss		Miss
+| Ticker | Predict | Actual |
+| ------------- | ------------- |--------|
+| BAC | Miss | Beat | 
+| BLK | Miss | Miss | 
+| C | Miss | Beat |  
+| DAL | Miss | Miss |  
+| FAST | Miss | Beat | 
+| GS | Beat | Beat |  
+| GWW | Miss | Miss |  
+| HOG | Miss | Miss |  
+| JNJ | Beat | Miss |  
+| JPM | Beat | Beat |  
+| LMT | Beat | Beat |  
+| MS | Beat | Beat |  
+| MTB | Beat | Beat |  
+| NFLX | Miss | Beat |  
+| NTRS | Miss | Beat | 
+| PEP | Beat | Beat |  
+| PGR | Miss | Miss |  
+| PNC | Beat | Beat |  
+| TXT | Miss | Miss |  
+| UNH | Beat | Miss |  
+| USB | Beat | Beat | 
+| WFC | Miss | Miss | 
+
 Live accuracy score:  68.2%
 
 # Next Steps
