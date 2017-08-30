@@ -3,7 +3,7 @@
 “What I really meant to say…”
 
 # Business Understanding
-Predict whether a company will hit or miss their projected revenue based on the content of their quarterly earnings conference calls? 
+Can we predict whether companies will hit or miss their projected quarterly revenue based on the contents of their earnings conference calls?
 
 # Why?
 Revenues are important!
